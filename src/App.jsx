@@ -173,7 +173,7 @@ function App() {
           }));
 
         const response = await fetch(
-          "https://speakly-backend-n7m3.onrender.com/api/chat",
+          "https://Dulu-backend-n7m3.onrender.com/api/chat",
           {
             method: "POST",
             headers: {
@@ -265,7 +265,7 @@ function App() {
 
     try {
       const response = await fetch(
-        "https://speakly-backend-n7m3.onrender.com/api/feedback",
+        "https://Dulu-backend-n7m3.onrender.com/api/feedback",
         {
           method: "POST",
           headers: {
@@ -371,7 +371,7 @@ function App() {
 
         <header className="conversation-header">
           <div className="logo">
-            Speakly
+            Dulu
           </div>
 
           <button
@@ -575,7 +575,7 @@ function App() {
         <header className="conversation-header">
 
           <div className="logo">
-            Speakly
+            Dulu
           </div>
 
           <button
@@ -780,7 +780,7 @@ function App() {
       <header className="navbar">
 
         <div className="logo">
-          Speakly
+          Dulu
         </div>
 
         <div className="tagline">
