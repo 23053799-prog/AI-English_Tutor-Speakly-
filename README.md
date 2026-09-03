@@ -1,12 +1,12 @@
-# Speakly 🗣️
+# DULU 🗣️
 
 ### Practice English. Naturally.
 
-**Speakly** is an AI-powered English speaking practice platform designed for college students who understand English but lack confidence when speaking it.
+**DULU** is an AI-powered English speaking practice platform designed for college students who understand English but lack confidence when speaking it.
 
 Instead of practicing alone or worrying about making mistakes in front of others, users can have short, natural conversations with **Ava**, an AI speaking partner, and receive personalized feedback after each session.
 
-🔗 **Live Demo:** https://speakly-blush.vercel.app/
+🔗 **Live Demo:** https://DULU-blush.vercel.app/
 
 ---
 
@@ -23,13 +23,13 @@ Traditional options can have limitations:
 * Speaking in front of others can create anxiety about making mistakes.
 * Professional language tutors may be expensive or inconvenient.
 
-Speakly explores whether an AI conversation partner can make speaking practice easier, more accessible, and less intimidating.
+DULU explores whether an AI conversation partner can make speaking practice easier, more accessible, and less intimidating.
 
 ---
 
 ## 💡 Solution
 
-Speakly provides a simple environment where users can practice English through a conversation with **Ava**, an AI speaking partner.
+DULU provides a simple environment where users can practice English through a conversation with **Ava**, an AI speaking partner.
 
 The user:
 
@@ -77,7 +77,7 @@ Ava speaks her responses aloud using the browser's built-in speech synthesis.
 
 ### 📊 Personalized Feedback
 
-After a session, Speakly generates feedback covering areas such as:
+After a session, DULU generates feedback covering areas such as:
 
 * Overall performance
 * Strengths
@@ -109,7 +109,7 @@ The application displays basic session information such as:
                        │
                        ▼
               ┌──────────────────┐
-              │  Speakly Web App │
+              │  DULU Web App │
               │   React + Vite   │
               └────────┬─────────┘
                        │
@@ -175,7 +175,7 @@ The application displays basic session information such as:
 ## 📁 Project Structure
 
 ```text
-AI-English_Tutor-Speakly-
+AI-English_Tutor-DULU-
 │
 ├── public/
 │
@@ -207,13 +207,13 @@ AI-English_Tutor-Speakly-
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/23053799-prog/AI-English_Tutor-Speakly-.git
+git clone https://github.com/23053799-prog/AI-English_Tutor-DULU-.git
 ```
 
 ### 2. Move into the project
 
 ```bash
-cd AI-English_Tutor-Speakly-
+cd AI-English_Tutor-DULU-
 ```
 
 ### 3. Install frontend dependencies
@@ -277,7 +277,7 @@ The `.env` file should never be uploaded to GitHub.
 
 ## 🌐 Deployment
 
-Speakly is deployed using a separate frontend and backend architecture.
+DULU is deployed using a separate frontend and backend architecture.
 
 ### Frontend
 
@@ -285,7 +285,7 @@ The React/Vite application is deployed on **Vercel**.
 
 **Live application:**
 
-https://speakly-blush.vercel.app/
+https://DULU-blush.vercel.app/
 
 ### Backend
 
@@ -309,7 +309,7 @@ Google Gemini
 
 ## 🧪 Product Validation
 
-Speakly was built as a focused MVP with an emphasis on testing the product idea rather than building a large feature set.
+DULU was built as a focused MVP with an emphasis on testing the product idea rather than building a large feature set.
 
 The initial product hypothesis is:
 
@@ -345,7 +345,7 @@ These features would be considered after validating that users actually find the
 
 ## ⚠️ Current Limitations
 
-Speakly is currently an MVP and has some limitations.
+DULU is currently an MVP and has some limitations.
 
 * Speech recognition depends on browser support.
 * The current experience is optimized for modern browsers such as Google Chrome.
@@ -359,7 +359,7 @@ These limitations are intentional to keep the MVP focused on validating the prim
 
 ## 🔒 Privacy & Security
 
-Speakly does not require users to create an account for the current MVP.
+DULU does not require users to create an account for the current MVP.
 
 The Gemini API key is stored on the backend and is not included in the frontend application.
 
@@ -408,4 +408,4 @@ B.Tech — Computer Science & Engineering
 
 This project was created as an original MVP/product prototype.
 
-© 2026 Speakly
+© 2026 DULU
